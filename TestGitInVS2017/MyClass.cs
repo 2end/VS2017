@@ -9,5 +9,6 @@ namespace TestGitInVS2017
 	class MyClass
 	{
 		public int Id { get; set; }
+		public int Count { get; set; }
 	}
 }
