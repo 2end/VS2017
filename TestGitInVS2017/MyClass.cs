@@ -8,6 +8,6 @@ namespace TestGitInVS2017
 {
 	class MyClass
 	{
-		public double Count { get; set; }
+		public string Conflict { get; set; }
 	}
 }
