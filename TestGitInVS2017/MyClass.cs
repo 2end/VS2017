@@ -9,5 +9,6 @@ namespace TestGitInVS2017
 	class MyClass
 	{
 		public string Conflict { get; set; }
+		public int Count { get; set; }
 	}
 }
