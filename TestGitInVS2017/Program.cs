@@ -11,7 +11,6 @@ namespace TestGitInVS2017
 		static void Main(string[] args)
 		{
 			Console.WriteLine("Hello World!");
-			Console.WriteLine("Buy");
 
 			Console.ReadLine();
 		}
