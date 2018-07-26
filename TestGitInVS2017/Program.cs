@@ -32,6 +32,8 @@ namespace TestGitInVS2017
 			Console.WriteLine(StateFlags.Menu | StateFlags.StatusBar);
 
             Console.WriteLine("Bye");
+
+            Console.WriteLine("Hello");
 		}
 	}
 
