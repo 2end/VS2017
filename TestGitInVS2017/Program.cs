@@ -33,6 +33,10 @@ namespace TestGitInVS2017
 =======
 			Console.WriteLine(State.Menu | State.StatusBar);
 			Console.WriteLine(StateFlags.Menu | StateFlags.StatusBar);
+
+            Console.WriteLine("Bye");
+
+            Console.WriteLine("Hello");
 		}
 	}
 >>>>>>> AnotherBranch
